@@ -1,0 +1,37 @@
+.Container {
+  width: 335px;
+  height: 435px;
+}
+
+.titulo {
+  color: #25594d;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lista {
+  display: flex;
+  width: 325px;
+  padding: 20px;
+  border-bottom: 4px solid #1c5e1c;
+  align-items: center;
+  text-decoration: none;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+.lista:hover {
+  border-bottom: 4px solid #21933e;
+}
+
+.Name {
+  color: #3b4636;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.ul {
+  margin: 0;
+  padding: 0;
+}
